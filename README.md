@@ -1,9 +1,13 @@
-# About Me
+## Olá, o meu nome é Gonçalo Correia 👋
 
-### Olá, eu sou Gonçalo Correia 👋
+Estou neste momento a estudar para me tornar num engenheiro de redes e sistemas de computadores.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/goncaloduquecorreia)
 
+
+## About my Github
+
+Os meus repositórios são todos criados para guardar projetos escolares
 
 ### Tecnologias utilizadas 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
