@@ -2,7 +2,7 @@
 
 Estou neste momento a estudar para me tornar num engenheiro de redes e sistemas de computadores.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/goncaloduquecorreia)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goncaloduquecorreia)
 
 
 ## About my Github
