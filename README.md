@@ -2,7 +2,7 @@
 
 ### Olá, eu sou Gonçalo Correia 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](www.linkedin.com/in/goncaloduquecorreia)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/goncaloduquecorreia)
 
 
 ### Tecnologias utilizadas 
